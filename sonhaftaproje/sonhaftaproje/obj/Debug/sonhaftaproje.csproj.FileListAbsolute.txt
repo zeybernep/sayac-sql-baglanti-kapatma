@@ -1,0 +1,11 @@
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\bin\Debug\sonhaftaproje.exe.config
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\bin\Debug\sonhaftaproje.exe
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\bin\Debug\sonhaftaproje.pdb
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.Form1.resources
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.exe
+C:\Users\Zeynep\Desktop\sonhaftaproje\sonhaftaproje\obj\Debug\sonhaftaproje.pdb
